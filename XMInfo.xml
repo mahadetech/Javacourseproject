@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE xminfo SYSTEM "XMInfo.dtd">
+
+<!-- Example XMInfo for XMemory.java -->
+
+
+<!-- Note: XMemory expects a minimum of 12 images per schema !!! -->
+<!--       Default 40 images                                     -->
+
+<xminfo>
+ <schema id="Standard">
+  <image file="images/mImage01.jpg" title="Arraba Bär" />
+  <image file="images/mImage02.jpg" title="Alladin" />
+  <image file="images/mImage03.jpg" title="Tux (Linux Binger)" />
+  <image file="images/mImage04.jpg" title="Uli Stein Maus" />
+  <image file="images/mImage05.jpg" title="Ottifanten" />
+  <image file="images/mImage06.jpg" title="Seelöwe" />
+  <image file="images/mImage07.jpg" title="Bergsee" />
+  <image file="images/mImage08.jpg" title="Bengalischer Tiger" />
+  <image file="images/mImage09.jpg" title="Elefanten (Wilhelma Stuttgart)" />
+  <image file="images/mImage10.jpg" title="Seeanemone" />
+  <image file="images/mImage11.jpg" title="Kapuzineraffe" />
+  <image file="images/mImage12.jpg" title="Schmetterling (Blue Morpho)" />
+  <image file="images/mImage13.jpg" title="Hirsche" />
+  <image file="images/mImage14.jpg" title="Pinzettenfisch" />
+  <image file="images/mImage15.jpg" title="Ente" />
+  <image file="images/mImage16.jpg" title="Delphin" />
+  <image file="images/mImage17.jpg" title="Eichhörnchen (Chipmunk)" />
+  <image file="images/mImage18.jpg" title="Frosch" />
+  <image file="images/mImage19.jpg" title="Waschbär" />
+  <image file="images/mImage20.jpg" title="Papageien" />
+  <image file="images/mImage21.jpg" title="Löwe" />
+  <image file="images/mImage22.jpg" title="Wolf" />
+  <image file="images/mImage23.jpg" title="Wölfe" />
+  <image file="images/mImage24.jpg" title="Bär" />
+  <image file="images/mImage25.jpg" title="Chicago (Sears Tower)" />
+  <image file="images/mImage26.jpg" title="Cowboy" />
+  <image file="images/mImage27.jpg" title="Cody, Wyoming, USA" />
+  <image file="images/mImage28.jpg" title="Kühe, Österreich" />
+  <image file="images/mImage29.jpg" title="Baumgart Alpe, Lechtal, Österreich" />
+  <image file="images/mImage30.jpg" title="Blumen, Brand, Österreich" />
+  <image file="images/mImage31.jpg" title="Bryce Canyon, Utah, USA" />
+  <image file="images/mImage32.jpg" title="Utah, USA" />
+  <image file="images/mImage33.jpg" title="Chinesische Mauer" />
+  <image file="images/mImage34.jpg" title="Canyon Lands, Utah, USA" />
+  <image file="images/mImage35.jpg" title="Bryce Canyon, Utah, USA" />
+  <image file="images/mImage36.jpg" title="Death Valley, USA" />
+  <image file="images/mImage37.jpg" title="Blumen" />
+  <image file="images/mImage38.jpg" title="Grand Canyon, Arizona, USA" />
+  <image file="images/mImage39.jpg" title="Blumen" />
+  <image file="images/mImage40.jpg" title="Hawaii" />
+ </schema>
+ <schema id="Kunst">
+  <image file="images/aImage01.jpg" title="Okeeffe: Music - Pink and Blue" />
+  <image file="images/aImage02.jpg" title="Bischoff: Houses along the Coast" />
+  <image file="images/aImage03.jpg" title="Hills: Beside the Sea" />
+  <image file="images/aImage04.jpg" title="Heade: Cattelya Orchid and three Brazilian Hummingbirds" />
+  <image file="images/aImage05.jpg" title="Haas: Into the Sun" />
+  <image file="images/aImage06.jpg" title="Lebasque: Nono and Marthe in the Garden" />
+  <image file="images/aImage07.jpg" title="Hale: The Crimson Rambler" />
+  <image file="images/aImage08.jpg" title="Godward: The Tease" />
+  <image file="images/aImage09.jpg" title="Genth: Summer Morning" />
+  <image file="images/aImage10.jpg" title="Cabanel: The Birth Of Venus" />
+  <image file="images/aImage11.jpg" title="Curran: On the Heights" />
+  <image file="images/aImage12.jpg" title="Raffael: Madonna" />
+  <image file="images/aImage13.jpg" title="Cezanne: View into the Valley Loire" />
+  <image file="images/aImage14.jpg" title="Chagall: Birthday" />
+  <image file="images/aImage15.jpg" title="Dali: Leda Atomica" />
+  <image file="images/aImage16.jpg" title="Dali: Tigers" />
+  <image file="images/aImage17.jpg" title="Delacroix: Liberty" />
+  <image file="images/aImage18.jpg" title="Hundertwasser: 30 Day Fax Picture" />
+  <image file="images/aImage19.jpg" title="Kandinsky: Moscow 1" />
+  <image file="images/aImage20.jpg" title="Kandinsky: Improvisation 31" />
+  <image file="images/aImage21.jpg" title="Kandinsky: (59)" />
+  <image file="images/aImage22.jpg" title="DaVinci: Monalisa" />
+  <image file="images/aImage23.jpg" title="Magritte: The Big Family" />
+  <image file="images/aImage24.jpg" title="Marc: Birds" />
+  <image file="images/aImage25.jpg" title="Marc: Tiger" />
+  <image file="images/aImage26.jpg" title="Monet: Jeane-Marguerite" />
+  <image file="images/aImage27.jpg" title="Picasso: Guitar" />
+  <image file="images/aImage28.jpg" title="Picasso: Les Demoiselle D'Avignon" />
+  <image file="images/aImage29.jpg" title="Picasso: Portrait of Dora Maar" />
+  <image file="images/aImage30.jpg" title="Renoir: Dance at Bougival" />
+  <image file="images/aImage31.jpg" title="Rubens: The Education of Marie De Medici" />
+  <image file="images/aImage32.jpg" title="Van Gogh: L'Eglise" />
+  <image file="images/aImage33.jpg" title="Van Gogh: Sunflowers" />
+  <image file="images/aImage34.jpg" title="Rubens: The Union of Earth and Water" />
+  <image file="images/aImage35.jpg" title="Parrish: Christmas Morning" />
+  <image file="images/aImage36.jpg" title="Monet: Woman with Parasol" />
+  <image file="images/aImage37.jpg" title="Monet: Garden in Bordighera" />
+  <image file="images/aImage38.jpg" title="Michelangelo: Creation of Man" />
+  <image file="images/aImage39.jpg" title="Bouguereau: Young Girl defending herself against Eros" />
+  <image file="images/aImage40.jpg" title="Gauguin: And the Gold of their Bodies" />
+  <image file="images/aImage41.jpg" title="Gauguin: Breton Landscape" />
+  <image file="images/aImage42.jpg" title="Gauguin: Mahana No Atua - Day of the Gods" />
+  <image file="images/aImage43.jpg" title="Mondrian: New York City I" />
+  <image file="images/aImage44.jpg" title="Hamilton: Picking Flowers" />
+  <image file="images/aImage45.jpg" title="Vlaminck: The River" />
+  <image file="images/aImage46.jpg" title="Dali: Persistence of Memory" />
+  <image file="images/aImage47.jpg" title="Homer: The Andirondak Guide" />
+  <image file="images/aImage48.jpg" title="Lautrec: Toilette" />
+  <image file="images/aImage49.jpg" title="Warhol: Einstein" />
+  <image file="images/aImage50.jpg" title="Van Gogh: Village Street" />
+ </schema>
+ <schema id="Blumen">
+  <image file="images/fImage01.jpg" title="Wildblumen" />
+  <image file="images/fImage02.jpg" title="Siefmütterchen" />
+  <image file="images/fImage03.jpg" title="Sonnenblumen" />
+  <image file="images/fImage04.jpg" title="Cholla Kaktus" />
+  <image file="images/fImage05.jpg" title="Paradiesvogel" />
+  <image file="images/fImage06.jpg" title="Susan" />
+  <image file="images/fImage07.jpg" title="Susan" />
+  <image file="images/fImage08.jpg" title="Orchidee" />
+  <image file="images/fImage09.jpg" title="Eispflanze" />
+  <image file="images/fImage10.jpg" title="Gazania" />
+  <image file="images/fImage11.jpg" title="Lotus" />
+  <image file="images/fImage12.jpg" title="Hibiscus" />
+  <image file="images/fImage13.jpg" title="Gelbe Mohnblumen" />
+  <image file="images/fImage14.jpg" title="Tulpen" />
+  <image file="images/fImage15.jpg" title="Rose" />
+  <image file="images/fImage16.jpg" title="Amaryllis" />
+  <image file="images/fImage17.jpg" title="Gelbe Astern" />
+  <image file="images/fImage18.jpg" title="Bougainville" />
+  <image file="images/fImage19.jpg" title="Tropische Orchidee" />
+  <image file="images/fImage20.jpg" title="Hortensie" />
+  <image file="images/fImage21.jpg" title="Tulpen" />
+  <image file="images/fImage22.jpg" title="Sonnenblumen" />
+  <image file="images/fImage23.jpg" title="Strahlende Schönheiten" />
+  <image file="images/fImage24.jpg" title="Rose" />
+  <image file="images/fImage25.jpg" title="Blume mit Biene" />
+  <image file="images/fImage26.jpg" title="Lilie" />
+  <image file="images/fImage27.jpg" title="Blume mit Grashüpfer" />
+  <image file="images/fImage28.jpg" title="Rose" />
+  <image file="images/fImage29.jpg" title="Pink Phlox" />
+  <image file="images/fImage30.jpg" title="Tulpen" />
+  <image file="images/fImage31.jpg" title="Kaktus" />
+  <image file="images/fImage32.jpg" title="Midnight Blue" />
+  <image file="images/fImage33.jpg" title="Pusteblume" />
+  <image file="images/fImage34.jpg" title="Veilchen" />
+  <image file="images/fImage35.jpg" title="Mohnblumen" />
+  <image file="images/fImage36.jpg" title="Mohnblumen" />
+  <image file="images/fImage37.jpg" title="Anthurium" />
+  <image file="images/fImage38.jpg" title="Stille Wasser" />
+  <image file="images/fImage39.jpg" title="Christmas Flowers" />
+  <image file="images/fImage40.jpg" title="Rose" />
+ </schema>
+</xminfo>
